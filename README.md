@@ -1,5 +1,7 @@
 # to_do_share
 
+# This project is not compleat.
+
 A new Flutter project.
 
 This app is my first app for android and can be used mainly as a "todolist". The language is developed using "flutter" of "dart".
